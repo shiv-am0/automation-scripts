@@ -29,7 +29,6 @@ The script relies on the following main functions from the `boto3` library:
 Assign an IAM role to your Lambda function with the following permissions:
 - `ec2:DescribeInstances` – to retrieve instance information.
 - `ec2:TerminateInstances` – to terminate stopped instances.
-- `logs:CreateLogGroup`, `logs:CreateLogStream`, `logs:PutLogEvents` – for CloudWatch logging (optional, but recommended for monitoring).
 
 ### 3. Add the Code
 - Add the code into the **Code** tab of the Lambda function.
