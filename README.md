@@ -1,6 +1,6 @@
-# DevOps and Cloud Automation Scripts
+# AWS Lambda Automation Scripts
 
-Welcome to the **DevOps and Cloud Automation Scripts** repository! This repository is a collection of Python scripts tailored for automation tasks commonly faced by DevOps engineers. I will be developing and pushing scripts along my journey of learning DevOps and Cloud technologies using AWS.
+Welcome to the **AWS Lambda Automation Scripts** repository! This repository is a collection of Python scripts for AWS Lambda, tailored for automation tasks commonly faced by DevOps engineers. I will be developing and pushing scripts along my journey of learning DevOps and Cloud technologies using AWS.
 
 These scripts address real-world scenarios, helping automate various routine tasks that can improve productivity and reduce manual effort. As my learning progresses, I’ll continue adding more scripts covering a broad range of DevOps automation needs.
 
@@ -17,10 +17,10 @@ These scripts address real-world scenarios, helping automate various routine tas
 
 ## About
 
-This repository serves as a record of my learning process in DevOps and Cloud. It contains automation scripts in Python, focusing on tasks that help streamline operations and improve efficiency for DevOps teams. Each script is designed to perform a specific task, such as managing AWS resources or automating deployment pipelines.
+This repository serves as a record of my learning process in DevOps and Cloud. It contains automation scripts in Python for AWS Lambda, focusing on tasks that help streamline operations and improve efficiency for DevOps teams. Each script is designed to perform a specific task, such as managing AWS resources or automating deployment pipelines.
 
 The primary goals of this repository are to:
-- Build practical experience with cloud platforms (especially AWS).
+- Build practical experience with AWS cloud platform.
 - Develop reusable automation scripts to solve real-world challenges.
 - Showcase my growth and understanding in the DevOps field.
 
